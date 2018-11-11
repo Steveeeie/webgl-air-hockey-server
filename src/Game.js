@@ -14,10 +14,10 @@ class Game {
   addPlayer(socket) {
     if (!this.player1) {
       this.player1 = new Player(socket, () => this.playerReady());
-      this.player1.socket.emit('player-number-assigned', 'player1');
+      this.player1.socket.emit('player-number-assigned', 1);
     } else {
       this.player2 = new Player(socket, () => this.playerReady());
-      this.player2.socket.emit('player-number-assigned', 'player2');
+      this.player2.socket.emit('player-number-assigned', 2);
       this.io.emit('status-updated', 'ready');
     }
 
