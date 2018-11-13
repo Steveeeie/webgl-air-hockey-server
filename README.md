@@ -4,12 +4,12 @@
 
 To play you will need to clone this server repo and run the following commands:
 
-1. ```npm install```
-2. ```npm start```
+1. ```yarn install```
+2. ```yarn start```
 
 You will also need to clone the client repo which can be found [here](https://github.com/Steveeeie/webgl-air-hockey-client) and run the following commands:
 
-3. ```npm install```
-4. ```npm run serve```
+3. ```yarn install```
+4. ```yarn start```
 
-Visit ```localhost:8080``` in your browser to play.
+Visit ```localhost:3000``` in your browser to play.
