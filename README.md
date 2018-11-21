@@ -1,6 +1,6 @@
 # webgl-air-hockey-server
 
-![alt text](https://github.com/Steveeeie/webgl-air-hockey-server/blob/master/preview.gif?raw=true "Preview")
+![Preview](https://github.com/Steveeeie/webgl-air-hockey-server/blob/master/preview.gif?raw=true "Preview")
 
 ## Installation
 
