@@ -15,6 +15,7 @@ Clone, install and run the client repo (the source can be found [here](https://g
 5. ```git clone https://github.com/Steveeeie/webgl-air-hockey-client.git```
 6. ```cd webgl-air-hockey-client```
 7. ```yarn install```
-8. ```yarn start```
+8. Rename ```example.env``` to ```.env```
+9. ```yarn start```
 
 Visit ```localhost:3000``` in your browser to play.
