@@ -53,7 +53,7 @@ class TableSimulation {
     };
 
     const puckFixDef = {
-      density: 0.25,
+      density: 0.75,
       filterCategoryBits: 0x0004,
       restitution: 0.9
     };
@@ -133,7 +133,7 @@ class TableSimulation {
   }
 
   updateSimulation() {
-    const force = 1;
+    const force = 4;
 
     let paddle1Vector = Vec2(
       this.player1.movement.x * force,

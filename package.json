@@ -24,7 +24,7 @@
     "eslint-config-prettier": "^2.9.0",
     "eslint-plugin-prettier": "^2.6.0",
     "express": "^4.16.3",
-    "nodemon": "^1.18.3",
+    "nodemon": "^1.18.9",
     "planck-js": "^0.1.44",
     "prettier": "^1.12.1",
     "socket.io": "^2.1.0",
